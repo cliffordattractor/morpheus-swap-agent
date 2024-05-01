@@ -1,0 +1,10 @@
+llama-cpp-python
+transformers
+sentencepiece
+protobuf
+huggingface-hub
+flask==2.2.2
+Werkzeug==2.2.2
+gradio > /dev/null
+web3
+flask-cors
